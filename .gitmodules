@@ -1,0 +1,6 @@
+[submodule "leveldb-read-only"]
+	path = leveldb-read-only
+	url = https://code.google.com/p/leveldb/
+[submodule "snappy-read-only"]
+	path = snappy-read-only
+	url = git://github.com/d3m3vilurr/snappy.git
